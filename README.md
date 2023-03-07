@@ -7,8 +7,8 @@ Uses Java and Java Swing.
 
 ## screenshots from the game
 ![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT1.png)
-![This is an image](https://github.com/carlgombert/Cerberus_Crypt/tree/main/SCREENSHOTS/SCREENSHOT2.png)
-![This is an image](https://github.com/carlgombert/Cerberus_Crypt/tree/main/SCREENSHOTS/SCREENSHOT3.png)
-![This is an image](https://github.com/carlgombert/Cerberus_Crypt/tree/main/SCREENSHOTS/SCREENSHOT4.png)
-![This is an image](https://github.com/carlgombert/Cerberus_Crypt/tree/main/SCREENSHOTS/SCREENSHOT5.png)
-![This is an image](https://github.com/carlgombert/Cerberus_Crypt/tree/main/SCREENSHOTS/SCREENSHOT6.png)
+![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT2.png)
+![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT3.png)
+![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT4.png)
+![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT5.png)
+![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT6.png)
