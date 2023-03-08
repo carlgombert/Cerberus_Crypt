@@ -10,5 +10,7 @@ Uses Java and Java Swing.
 ![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT2.png)
 ![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT3.png)
 ![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT4.png)
+![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT7.png)
 ![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT5.png)
+![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT8.png)
 ![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT6.png)
