@@ -13,5 +13,4 @@ Uses Java and the Java Swing Framework.
 ![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT4.png)
 ![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT7.png)
 ![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT5.png)
-![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT8.png)
 ![This is an image](https://github.com/carlgombert/Cerberus_Crypt/blob/main/SCREENSHOTS/SCREENSHOT6.png)
