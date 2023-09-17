@@ -1,8 +1,7 @@
-# Cerberus Crypt (in progress)
+# Cerberus Crypt
 ## details
 Created by: [carlgombert](https://github.com/carlgombert)  
-Follows the Model–view–controller (MVC) architecture.  
-Still in need of commenting and some organization of the code as well as a few menus.  
+Follows the Model–view–controller (MVC) architecture.    
 Uses Java and the Java Swing Framework.  
 [click here to view code](https://github.com/carlgombert/Cerberus_Crypt/tree/main/cerberus_crypt/src/com/cerberus_crypt/main)
 
