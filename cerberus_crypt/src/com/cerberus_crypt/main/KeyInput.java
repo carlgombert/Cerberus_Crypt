@@ -83,7 +83,7 @@ public class KeyInput implements ActionListener{
 		if(e.getSource()==Frame.loadEnterButton) {
 			if(!Frame.loadTextField.getText().equals("")) {
 				try {
-					Game.player = Save.LoadGame(Frame.saveTextField.getText());
+					Game.player = Save.LoadGame(Frame.loadTextField.getText());
 				} catch (IOException e1) {
 					// TODO Auto-generated catch block
 					e1.printStackTrace();
